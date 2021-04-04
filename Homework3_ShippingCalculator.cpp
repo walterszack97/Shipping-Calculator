@@ -1,13 +1,5 @@
 // Homework3_ShippingCalculator.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
-//Write a Item Shipping Calculator program that does the following:
-
-//Prompt and retrieve the following input from the user(through the console) :
-    //Item name
-    //Is the item fragile(add in $2.00 if the item is fragile)
-    //The order total(without shipping)
-    //The destination to which the item will be shipped(USA, Canada, Australia)
-
 #include <iostream>
 #include <fstream>   //header used for outfile stream
 #include <iomanip>   //used for setw, showpoint, setprecision
